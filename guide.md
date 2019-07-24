@@ -129,12 +129,9 @@
 
 4） 一次最多提交30条url，一行一条。
 
-
-
 **要刷新的文件**
 
-1） 必须以http(s)://开头，填写完整的路径，如
-<http://static.ucloud.cn/images/test.jpg>
+1） 必须以http(s)://开头，填写完整的路径，如<http://static.ucloud.cn/images/test.jpg>
 
 2） 请注意区分url中的字母的大小写，错误的大小写会导致刷新无效
 
