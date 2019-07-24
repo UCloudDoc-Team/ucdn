@@ -127,19 +127,9 @@
 
 3. 如果目录有上下级层次关系，本功能会自动同时推送下级子目录，不需要填写下级子目录。
 
-<<<<<<< HEAD
 **要刷新的文件**
 
-1） 必须以http(s)://开头，填写完整的路径，如<http://static.ucloud.cn/images/test.jpg>
-=======
-4. 一次最多提交30条url，一行一条。
-
-
-**要刷新的文件**
-
-1. 必须以http(s)://开头，填写完整的路径，如
-<http://static.ucloud.cn/images/test.jpg>
->>>>>>> 447809d37f3151d2dd523a6a72fc51f55118face
+1. 必须以http(s)://开头，填写完整的路径，如<http://static.ucloud.cn/images/test.jpg>
 
 2. 请注意区分url中的字母的大小写，错误的大小写会导致刷新无效
 
