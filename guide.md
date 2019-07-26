@@ -74,7 +74,7 @@
 
 ![](/images/访问分布饼状图.jpg)
 
-\[用户访问分布\]模块也支持省份/运营商/省份-运营商 3个展示纬度的切换：
+[用户访问分布]模块也支持省份/运营商/省份-运营商 3个展示纬度的切换：
 
 ![](/images/分布纬度切换.jpg)
 
@@ -149,7 +149,7 @@
 
 ![](/images/大文件预取.jpg)
 
-* 填写文件的完整路径，必须以http(s)//:开头，如http(s)//:static.ucloud.cn/packages/document.zip。
+* 填写文件的完整路径，必须以http(s):%%//%%:开头，如http(s):%%//%%:static.ucloud.cn/packages/document.zip。
 
 * 每条url一行，以回车换行。一次性最多提交30条。
 
@@ -209,21 +209,28 @@
 
 2. 路径模板：必须以/为开头。
 
-* 斜杠 / 是代表网址首页
-
-* 斜杠开头的 /news/ 是代表news目录下所有文件 
-
-* /(news|xiao)/ 是代表 news 和 xiao目录下的所有文件
-
-* 斜杠开头的 / 是代表全部文件
-
-* 斜杠开头的 /.jpg 是代表全部jpg文件，也包含/xx/等子目录下的所以jpg文件
-
-* 斜杠开头的 /.(html) 是代表根目录下html类型的所有文件，.(html|js) 是代表根目录下 html 和 js类型的所有文件
-
-* 斜杠开头的 /news/image.jpg 是代表 news 目录下的 image.jpg 文件，news(image.jpg|logo.jpg)代表 news 目录下的image.jpg 和 logo.jpg 文件
-
 3. 缓存时间：可以自由选择时间单位，上限为30天。
+
+
+```
+**路径模板说明**：
+
+ 1、斜杠 /$ 是代表网址首页
+
+ 2、斜杠开头的 /news/ 是代表news目录下所有文件 
+
+ 3、/(news|xiao)/ 是代表 news 和 xiao目录下的所有文件
+
+ 4、斜杠开头的 /* 是代表全部文件
+
+ 5、斜杠开头的 /.jpg 是代表全部jpg文件，也包含/xx/等子目录下的所以jpg文件
+
+ 6、斜杠开头的 /.(html) 是代表根目录下html类型的所有文件，/.(html|js) 是代表根目录下 html 和 js类型的所有文件
+
+ 7、斜杠开头的 /news/image.jpg 是代表 news 目录下的具体的 image.jpg 文件，news(image.jpg|logo.jpg)代表 news 目录下的image.jpg 和 logo.jpg 文件
+
+```
+
 
 **操作日志**
 
