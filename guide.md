@@ -212,24 +212,23 @@
 3. 缓存时间：可以自由选择时间单位，上限为30天。
 
 
-```
-**路径模板说明**：
+路径模板说明：
 
- 1、斜杠 /$ 是代表网址首页
 
- 2、斜杠开头的 /news/ 是代表news目录下所有文件 
+ 1.斜杠 /$ 是代表网址首页
 
- 3、/(news|xiao)/ 是代表 news 和 xiao目录下的所有文件
+ 2.斜杠开头的 /news/ 是代表news目录下所有文件 
 
- 4、斜杠开头的 /* 是代表全部文件
+ 3./(news|xiao)/ 是代表 news 和 xiao目录下的所有文件
 
- 5、斜杠开头的 /.jpg 是代表全部jpg文件，也包含/xx/等子目录下的所以jpg文件
+ 4.斜杠开头的 /* 是代表全部文件
 
- 6、斜杠开头的 /.(html) 是代表根目录下html类型的所有文件，/.(html|js) 是代表根目录下 html 和 js类型的所有文件
+ 5.斜杠开头的 /.jpg 是代表全部jpg文件，也包含/xx/等子目录下的所以jpg文件
 
- 7、斜杠开头的 /news/image.jpg 是代表 news 目录下的具体的 image.jpg 文件，news(image.jpg|logo.jpg)代表 news 目录下的image.jpg 和 logo.jpg 文件
+ 6.斜杠开头的 /.(html) 是代表根目录下html类型的所有文件，/.(html|js) 是代表根目录下 html 和 js类型的所有文件
 
-```
+ 7.斜杠开头的 /news/image.jpg 是代表 news 目录下的具体的 image.jpg 文件，news(image.jpg|logo.jpg)代表 news 目录下的image.jpg 和 logo.jpg 文件
+
 
 
 **操作日志**
