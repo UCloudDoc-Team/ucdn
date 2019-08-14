@@ -54,7 +54,7 @@ CDN服务节点在没缓存情况下，中间一公里是通过机房的骨干�
 
 PHP: :
 
-    $user_IP ` ($_SERVER["HTTP_X_REAL_IP"]);
+    $user_IP ($_SERVER["HTTP_X_REAL_IP"]);
 
 ASP: :
 
@@ -62,12 +62,12 @@ ASP: :
 
 Java: :
 
-    String srcIp ` request.getHeader("X-Real-IP");
+    String srcIp request.getHeader("X-Real-IP");
 
 C\#: :
 
 ``` 
-String srcIp ` Request.Headers["X-Real-IP"]; 
+String srcIp Request.Headers["X-Real-IP"]; 
 ```
 
 Asp.net:
@@ -76,7 +76,7 @@ Asp.net:
 :
 
 ``` 
-result ` HttpContext.Current.Request.ServerVariables["HTTP_X-Real-IP"]; 
+result HttpContext.Current.Request.ServerVariables["HTTP_X-Real-IP"]; 
 ```
 
 ## 12. 如何初步定位CDN故障原因？
