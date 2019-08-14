@@ -151,7 +151,7 @@
 
 注：
 
-* 填写文件的完整路径，必须以http(s)://开头，如http(s)://static.ucloud.cn/packages/document.zip。
+* 填写文件的完整路径，必须以http(s):%%//%%开头，如http(s):%%//%%static.ucloud.cn/packages/document.zip。
 
 * 每条url一行，以回车换行。一次性最多提交30条。
 
