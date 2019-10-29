@@ -1,6 +1,6 @@
 # FAQ
 
-{{indexmenu_n>6}}
+
 
 ## 1. cdn预取的流量怎么算的？
 
