@@ -3,7 +3,7 @@
     
     * [产品简介](cdn/ucdn/intro)
     
-    * [快速上手](cdn/ucdn/quick)
+    * 快速上手
     
     * [使用指南](cdn/ucdn/guide)
     
