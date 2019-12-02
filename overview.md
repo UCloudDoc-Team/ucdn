@@ -12,6 +12,8 @@
 
   [配置CNAME](cdn/ucdn/quick/cname)
 
+  [停止CDN服务](cdn/ucdn/quick/stop)
+
 - [使用指南](cdn/ucdn/guide)
 
 - [节点分布](cdn/ucdn/node)
