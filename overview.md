@@ -6,6 +6,8 @@
 
   [开通CDN服务](cdn/ucdn/open)
 
+  [创建加速域名](cdn/ucdn/create)
+
 * [使用指南](cdn/ucdn/guide)
 
 * [节点分布](cdn/ucdn/node)
@@ -17,3 +19,4 @@
    
   
   ​      
+
