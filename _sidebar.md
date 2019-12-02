@@ -5,6 +5,8 @@
     
     * 快速上手
     
+      ​	-开通CDN服务
+    
     * [使用指南](cdn/ucdn/guide)
     
     * [节点分布](cdn/ucdn/node)
