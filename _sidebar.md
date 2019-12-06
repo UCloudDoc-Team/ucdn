@@ -13,7 +13,7 @@
 
 * [节点分布](cdn/ucdn/node)   
 
-* [产品价格](cdn/ucdn/charge)    
+* 产品价格    
 
     * [计费方式概览](cdn/ucdn/charge/type)
 
