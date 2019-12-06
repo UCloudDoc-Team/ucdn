@@ -1,11 +1,4 @@
-
 <div class="sidebar_title icon__ucdn"> 云分发 UCDN</div>
-<<<<<<< HEAD
-
-
-* [概览](cdn/ucdn/overview)    
-=======
->>>>>>> 0975aae360a707b66036194ef6dc1c73bdec3987
 
 * [概览](cdn/ucdn/overview)    
 * [产品简介](cdn/ucdn/intro)    
