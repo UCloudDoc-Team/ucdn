@@ -16,6 +16,11 @@
 
 - [使用指南](cdn/ucdn/guide)
 
+    * 域名配置
+      * [概述](cdn/ucdn/config/domain1)
+      * [域名基础信息](cdn/ucdn/config/basic)
+      * [域名配置](cdn/ucdn/config/config)
+
 - [节点分布](cdn/ucdn/node)
 
 - 产品价格
