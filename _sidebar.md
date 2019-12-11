@@ -1,7 +1,8 @@
 <div class="sidebar_title icon__ucdn"> 云分发 UCDN</div>
-
 * [概览](cdn/ucdn/overview)    
+
 * [产品简介](cdn/ucdn/intro)    
+
 * 快速上手    
     * [开通CDN服务](cdn/ucdn/quick/open)
     * [创建加速域名](cdn/ucdn/quick/create)
@@ -9,7 +10,12 @@
     * [配置CNAME](cdn/ucdn/quick/cname)
     * [停止CDN服务](cdn/ucdn/quick/stop)    
     
-* [使用指南](cdn/ucdn/guide)    
+* [使用指南](cdn/ucdn/guide)
+
+    *  域名配置
+      * [概述](cdn/ucdn/config/domain1)
+      * [域名基础信息](cdn/ucdn/config/basic)
+      * [域名配置](cdn/ucdn/config/config)
 
 * [节点分布](cdn/ucdn/node)   
 
