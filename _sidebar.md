@@ -1,5 +1,4 @@
 <div class="sidebar_title icon__ucdn"> 云分发 UCDN</div>
-
 * [概览](cdn/ucdn/overview)    
 * [产品简介](cdn/ucdn/intro)    
 * 快速上手    
@@ -13,6 +12,8 @@
       * [概述](cdn/ucdn/domain/domain1)
       * [域名基础信息](cdn/ucdn/domain/basic)
       * [回源配置](cdn/ucdn/domain/config/config)
+      * [访问控制](cdn/ucdn/domain/config/control)
+      * [缓存配置](cdn/ucdn/domain/config/cache)
 * [节点分布](cdn/ucdn/node)   
 * 产品价格    
     * [计费方式概览](cdn/ucdn/charge/type)
