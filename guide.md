@@ -121,7 +121,7 @@
 
 **要刷新的目录**
 
-1） 必须以http(s):%%//%%开头，填写完整的路径，如 http:%%//%%static.ucloud.cn/images/test.jpg
+1） 必须以http(s)://开头，以/结尾。
 
 2） 请注意区分url中的字母的大小写，错误的大小写会导致刷新无效。
 
@@ -130,7 +130,7 @@
 
 **要刷新的文件**
 
-1）  必须以http(s):%%//%%开头，填写完整的路径，如 http:%%//%%static.ucloud.cn/images/test.jpg
+1）  必须以http(s)://开头，填写完整的路径，如 http://static.ucloud.cn/images/test.jpg
 
 2） 请注意区分url中的字母的大小写，错误的大小写会导致刷新无效
 
@@ -151,7 +151,7 @@
 
 注：
 
-* 填写文件的完整路径，必须以http(s):%%//%%开头，如http(s):%%//%%static.ucloud.cn/packages/document.zip。
+* 填写文件的完整路径，必须以http(s)://开头，eg：http(s)://static.ucloud.cn/packages/document.zip。
 
 * 每条url一行，以回车换行。一次性最多提交30条。
 
@@ -159,7 +159,7 @@
 
 大文件加速预取文件与页面加速略微不同。
 
-大文件加速预取文件是主动从源站获取文件至二级服务器进行加速，需要注意，预取文件不能是图片、html、文本等能够在网页加速中进行加速的文件格式。如果发现预取一直显示处理中，有可能是由于路径填写不正确。填写文件的完整路径，必须以http(s):%%//%%开头，如http(s):%%//%%static.ucloud.cn/packages/document.zip。
+大文件加速预取文件是主动从源站获取文件至二级服务器进行加速，需要注意，预取文件不能是图片、html、文本等能够在网页加速中进行加速的文件格式。如果发现预取一直显示处理中，有可能是由于路径填写不正确。填写文件的完整路径，必须以http(s)://开头，如http(s)://static.ucloud.cn/packages/document.zip。
 
 ## 域名管理
 
