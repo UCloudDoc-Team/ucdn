@@ -8,14 +8,11 @@
     * [配置CNAME](cdn/ucdn/quick/cname)
     * [停止CDN服务](cdn/ucdn/quick/stop)       
 * [使用指南](cdn/ucdn/guide)
+    
     * 域名配置
       * [概述](cdn/ucdn/domain/domain1)
-      
       * [域名基础信息](cdn/ucdn/domain/basic)
-      
       * [回源配置](cdn/ucdn/domain/config/config)
-      
-        
 * [节点分布](cdn/ucdn/node)   
 * 产品价格    
     * [计费方式概览](cdn/ucdn/charge/type)
