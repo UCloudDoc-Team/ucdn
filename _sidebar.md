@@ -19,7 +19,7 @@
       * [访问控制](cdn/ucdn/domain/config/control)  
       * [缓存配置](cdn/ucdn/domain/config/cache)   
       * [高级配置](cdn/ucdn/domain/config/more)      
-   * [统计分析 ](cdn/ucdn/statistics/flow) 
+    * [统计分析 ](cdn/ucdn/statistics/flow) 
     
 * [节点分布](cdn/ucdn/node)   
 
