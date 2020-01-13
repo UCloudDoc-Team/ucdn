@@ -21,7 +21,7 @@
       
       * [高级配置](cdn/ucdn/domain/config/more)
       
-        [统计分析 ](cdn/ucdn/statistics/flow) 
+   * [统计分析 ](cdn/ucdn/statistics/flow) 
 - [节点分布](cdn/ucdn/node)
 - 产品价格
     * [计费方式概览](cdn/ucdn/charge/type)
