@@ -10,17 +10,11 @@
 - [使用指南](cdn/ucdn/guide)
     * 域名配置
       * [概述](cdn/ucdn/domain/domain1)
-      
-      * [域名基础信息](cdn/ucdn/domain/basic)
-      
-      * [回源配置](cdn/ucdn/domain/config/config)
-      
-      * [访问控制](cdn/ucdn/domain/config/control)
-      
-      * [缓存配置](cdn/ucdn/domain/config/cache)
-      
-      * [高级配置](cdn/ucdn/domain/config/more)
-      
+      * [域名基础信息](cdn/ucdn/domain/basic)     
+      * [回源配置](cdn/ucdn/domain/config/config)      
+      * [访问控制](cdn/ucdn/domain/config/control)     
+      * [缓存配置](cdn/ucdn/domain/config/cache)      
+      * [高级配置](cdn/ucdn/domain/config/more)     
    * [统计分析 ](cdn/ucdn/statistics/flow) 
 - [节点分布](cdn/ucdn/node)
 - 产品价格
