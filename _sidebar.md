@@ -24,7 +24,7 @@
       
       * [高级配置](cdn/ucdn/domain/config/more)
       
-        [统计分析 ](cdn/ucdn/statistics/flow) 
+   * [统计分析 ](cdn/ucdn/statistics/flow) 
     
 * [节点分布](cdn/ucdn/node)   
 
