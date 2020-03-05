@@ -4,11 +4,12 @@
 
 一般在业务高峰前预热热点资源，减钱源站压力，提高请求的命中效率。
 
-内容预取支持文件预取，不支持目前预取。
+内容预取支持文件预取，不支持目录预取。
 
 注：
 
-- 填写文件的完整路径，必须以http(s)://开头，eg：http(s)://static.ucloud.cn/packages/document.zip。
+* 填写文件的完整路径，必须以http(s)://开头，eg:http(s)://static.ucloud.cn/packages/document.zip。
+
 - 每条url一行，以回车换行。一次性最多提交30条。
 - 文件大的时候，预取有可能占用大量带宽，建议在不影响业务的时候进行预取。
 - 如果发现预取一直显示处理中，有可能是由于路径填写不正确。填写文件的完整路径，必须以http(s)://开头，如http(s)://static.ucloud.cn/packages/document.zip。
