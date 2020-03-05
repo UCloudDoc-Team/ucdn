@@ -8,7 +8,7 @@
 
 注：
 
-* 填写文件的完整路径，必须以http(s)://开头，eg:http(s)://static.ucloud.cn/packages/document.zip。
+* 填写文件的完整路径，必须以http(s)://开头 eg:http(s)://static.ucloud.cn/packages/document.zip。
 
 - 每条url一行，以回车换行。一次性最多提交30条。
 - 文件大的时候，预取有可能占用大量带宽，建议在不影响业务的时候进行预取。
