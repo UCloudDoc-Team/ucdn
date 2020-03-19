@@ -3,6 +3,8 @@
 
 * [产品简介](cdn/ucdn/intro)    
 
+* [节点分布](cdn/ucdn/node)   
+
 *  快速上手    
     * [开通CDN服务](cdn/ucdn/quick/open)
     * [创建加速域名](cdn/ucdn/quick/create)
@@ -23,8 +25,6 @@
       * [内容预取](cdn/ucdn/content/prefetch)   
       * [内容刷新](cdn/ucdn/content/refresh)     
     
-* [节点分布](cdn/ucdn/node)   
-
 * 产品价格    
     * [计费方式概览](cdn/ucdn/charge/type)
     * [基础计费方式](cdn/ucdn/charge/flowday)
