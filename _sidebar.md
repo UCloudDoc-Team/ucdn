@@ -30,7 +30,7 @@
     * [基础计费方式](cdn/ucdn/charge/flowday)
     * [月结计费方式](cdn/ucdn/charge/month)
     * [计费FAQ](cdn/ucdn/charge/faq)	    
-* [FAQ](cdn/ucdn/faq)
+* [FAQ](cdn/ucdn/faq)test
   
   ​    
   
