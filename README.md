@@ -1,7 +1,7 @@
-<div class="sidebar_title icon__ucdn"> 云分发 UCDN</div>
+# 概览
 
 
-* [概览](/ucdn/README) 
+
 * [产品简介](/ucdn/intro)
 * [节点分布](/ucdn/node)  
 * 快速上手    
@@ -10,6 +10,7 @@
      * [域名审核](/ucdn/quick/check)
      * [配置CNAME](/ucdn/quick/cname)
      * [停止CDN服务](/ucdn/quick/stop)  
+      
 * [使用指南](/ucdn/guide)    
 * 域名配置
     * [概述](/ucdn/domain/domain1)
@@ -18,6 +19,7 @@
     * [访问控制](/ucdn/domain/config/control)  
     * [缓存配置](/ucdn/domain/config/cache)   
     * [高级配置](/ucdn/domain/config/more)   
+    
 * [统计分析 ](/ucdn/statistics/flow) 
 * 内容管理 
     * [内容预取](/ucdn/content/prefetch)   
@@ -28,10 +30,3 @@
     * [月结计费方式](/ucdn/charge/month)
     * [计费FAQ](/ucdn/charge/faq)	    
 * [FAQ](/ucdn/faq)
-  
-  ​    
-  
-
-
-​    
-
