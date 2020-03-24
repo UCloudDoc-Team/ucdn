@@ -18,14 +18,12 @@
       * [缓存配置](cdn/ucdn/domain/config/cache)   
       * [高级配置](cdn/ucdn/domain/config/more)      
     * [统计分析 ](cdn/ucdn/statistics/flow) 
+    * 实时监控
+      * [带宽监控](cdn/ucdn/monitor/bandwidth) 
     * 内容管理 
       * [内容预取](cdn/ucdn/content/prefetch)   
-    * [内容刷新](cdn/ucdn/content/refresh)     
+* [内容刷新](cdn/ucdn/content/refresh)       
 
-
-      * [内容刷新](cdn/ucdn/content/refresh)         
-
-* [节点分布](cdn/ucdn/node)   
 * 产品价格    
 >>* [计费方式概览](cdn/ucdn/charge/type)
 * [基础计费方式](cdn/ucdn/charge/flowday)
