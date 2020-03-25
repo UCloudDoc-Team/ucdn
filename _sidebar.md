@@ -1,5 +1,4 @@
 <div class="sidebar_title icon__ucdn"> 云分发 UCDN</div>
-
 * [概览](/ucdn/README) 
 * [产品简介](/ucdn/intro)
 * [节点分布](/ucdn/node)  
@@ -18,7 +17,8 @@
     * [缓存配置](/ucdn/domain/config/cache)   
     * [高级配置](/ucdn/domain/config/more)   
 * 实时监控
-    * [带宽监控](cdn/ucdn/monitor/bandwidth)
+    
+    * [带宽监控](/ucdn/monitor/bandwidth)
 * [统计分析 ](/ucdn/statistics/flow) 
 * 内容管理 
     * [内容预取](/ucdn/content/prefetch)   
