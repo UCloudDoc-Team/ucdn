@@ -8,7 +8,6 @@
      * [域名审核](/ucdn/quick/check)
      * [配置CNAME](/ucdn/quick/cname)
      * [停止CDN服务](/ucdn/quick/stop)  
-      
 * [使用指南](/ucdn/guide)    
 * 域名配置
     * [概述](/ucdn/domain/domain1)
@@ -17,7 +16,10 @@
     * [访问控制](/ucdn/domain/config/control)  
     * [缓存配置](/ucdn/domain/config/cache)   
     * [高级配置](/ucdn/domain/config/more)   
-    
+* 实时监控
+    * [带宽监控](/ucdn/monitor/bandwidth)
+    * [请求数监控](/ucdn/monitor/request)
+    * [命中率监控](/ucdn/monitor/hitrate)
 * [统计分析 ](/ucdn/statistics/flow) 
 * 内容管理 
     * [内容预取](/ucdn/content/prefetch)   
