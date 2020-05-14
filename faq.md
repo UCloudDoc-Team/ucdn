@@ -110,8 +110,6 @@ A：页面加速：默认情况下，php、aspx、asp、jsp、do、dwr等动态�
 - Cache-Control 字段为 no-cache 或者 no-store，此时 CDN 节点对此资源不做缓存。
 - 若Response HTTP Header 中无Cache-Control 字段时，以加速域名配置的缓存时间为主。
 
-### 缓存的匹配方式是什么？
-
 #### Q： 访问的CDN节点ip与用户所在地/供应商为什么不匹配，比如广东电信用户访问到了江苏电信的ip？
 
 A：静态加速是采用local dns调度的模式，所以客户访问被调度到哪个地区、运营商，这取决于用户配置的local
