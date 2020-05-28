@@ -62,32 +62,28 @@ A：一般看用户数据的热点。文件的访问量越大，命中率相应�
 
 #### Q： 如何获取最终用户IP？
 
-A：正式切换使用CDN服务后，由于所有的用户请求都会通过节点，因此贵司服务器实际收到请求为CDN节点所发起的请求，故无法依照之前的方式获取最终用户IP地址，如果贵司需要获取最终用户IP，则可根据贵司网站编写的脚本语言自行选择下列代码。另外，需要注意的是以下代码需要在切换后才能正式生效，如未切换则可能导致获取IP错误。
+A：正式切换使用CDN服务后，由于所有的用户请求都会通过节点，因此贵司服务器实际收到请求为CDN节点所发起的请求，故无法依照之前的方式获取最终用户IP地址，如果贵司需要获取最终用户IP，
 
-PHP: :
+1）可通过X-Forwared-For来获取终端用户IP。
+
+2）可根据贵司网站编写的脚本语言自行选择下列代码。另外，需要注意的是以下代码需要在切换后才能正式生效，如未切换则可能导致获取IP错误。
+
+PHP: 
 
     $user_IP ($_SERVER["HTTP_X_REAL_IP"]);
 
-ASP: :
+ASP: 
 
     <% Request.ServerVariables("HTTP_X-Real-IP") %>
 
-Java: :
+Java: 
 
     String srcIp request.getHeader("X-Real-IP");
 
-C\#: :
+C\#: 
 
 ``` 
 String srcIp Request.Headers["X-Real-IP"]; 
-```
-
-Asp.net:
-
-如贵司用ServerVariables来获取参数，因为ServerVariables有编码解码的过程，因此应该用HTTP\_Cdn\_Src\_Ip来获取变量，如:
-
-``` 
-result HttpContext.Current.Request.ServerVariables["HTTP_X-Real-IP"]; 
 ```
 
 #### Q：如何初步定位CDN异常？
