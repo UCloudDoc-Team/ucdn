@@ -64,43 +64,6 @@ A：一般看用户数据的热点。文件的访问量越大，命中率相应�
 
 A：正式切换使用CDN服务后，请求通过边缘加速节点后，会增加 x-forward-for 头部，携带客户端真实 IP 信息。
 
-#### Q：如何初步定位CDN异常？
-
-PHP: :
-
-    $user_IP ($_SERVER["HTTP_X_REAL_IP"]);
-
-ASP: :
-
-    <% Request.ServerVariables("HTTP_X-Real-IP") %>
-
-Java: :
-
-    String srcIp request.getHeader("X-Real-IP");
-
-C\#: :
-
-``` 
-String srcIp Request.Headers["X-Real-IP"]; 
-```
-
-Asp.net:
-
-如贵司用ServerVariables来获取参数，因为ServerVariables有编码解码的过程，因此应该用HTTP\_Cdn\_Src\_Ip来获取变量，如:
-
-``` 
-result HttpContext.Current.Request.ServerVariables["HTTP_X-Real-IP"]; 
-```
-
-#### Q：如何初步定位CDN异常？
-
-A：
-1.打开hosts文件，hosts文件一般存放在：c:windowssystem32driversetc目录下
-
-2.添加源IP及对应的故障域名。(如192.168.11.11 www.abc.com，两者之间有空格，且IP在前)
-
-3.保存hosts文件修改，并重启浏览器，访问域名，查看是否访问仍然有问题，若仍有问题，则为源站故障，若访问正常，请及时联系UCloud技术支持。
-
 #### Q：不同加速类型的缓存默认规则是什么？
 
 A：页面加速：默认情况下，php、aspx、asp、jsp、do、dwr等动态文件不缓存，直接透传，shtml、html、htm、js 类型默认缓存1天，其他类型的静态文件默认缓存半天。页面加速默认不忽略参数缓存。
@@ -157,3 +120,11 @@ A：不能修改加速类型，可以删除域名重新创建。不同的加速�
 #### Q：使用CDN加速，源站为阿里云云主机，出现5xx情况怎么办？
 
 A：在CDN加速和源站均无异常情况下，可能为阿里云云主机云盾限制回源请求，需将CDN回源节点加入到云盾的白名单中。
+
+#### Q：如何初步定位CDN异常？
+
+A： 1.打开hosts文件，hosts文件一般存放在：c:windowssystem32driversetc目录下
+
+2.添加源IP及对应的故障域名。(如192.168.11.11 [www.abc.com，两者之间有空格，且IP在前](http://www.abc.xn--com%2C%2Cip-uy3kse4pk09afuozj4c2rdov4gvsslh9f/))
+
+3.保存hosts文件修改，并重启浏览器，访问域名，查看是否访问仍然有问题，若仍有问题，则为源站故障，若访问正常，请及时联系UCloud技术支持。
