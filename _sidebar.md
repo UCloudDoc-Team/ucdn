@@ -1,4 +1,3 @@
-<div class="sidebar_title icon__ucdn"> 云分发 UCDN</div>
 
 * [概览](/ucdn/README) 
 * [产品简介](/ucdn/intro)
