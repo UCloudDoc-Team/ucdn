@@ -31,6 +31,6 @@
     * [月结计费方式](/ucdn/charge/month)
     * [计费FAQ](/ucdn/charge/faq)	    
 * [FAQ](/ucdn/faq)
-* [政策与协议](/ucdn/protocol)
+* 政策与协议
     * [违规处理说明](/ucdn/protocol/zhengce)
 

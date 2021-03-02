@@ -6,7 +6,7 @@
 
 #### 一、违规信息说明
 
-违规信息类型说明请参考： **UCloud云平台安全规则(https://docs.ucloud.cn/agreement/security?id=ucloud**
+违规信息类型说明请参考： **UCloud云平台安全规则https://docs.ucloud.cn/agreement/security?id=ucloud**
 
 #### 二、UCDN违规事件处理说明
 
