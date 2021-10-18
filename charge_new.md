@@ -14,7 +14,7 @@
 
 2.后付费日带宽峰值（新）：按日峰值带宽，每天凌晨结算前一天的账单进行扣费。
 
-[旧价格]
+[旧价格](/ucdn/charge.md)
 
 更多优惠活动请参考：https://www.ucloud.cn/site/active/cdn-ufile.html
 
