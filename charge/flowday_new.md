@@ -8,12 +8,14 @@
 
 如老客户希望享受新的价格，请联系客户经理
 
+[CDN计费方式（旧）](/ucdn/charge)
+
+
 ## 预付费流量包(新)
 
 现在有境内加速和境外加速两种，分别使用阶梯价格，价格详情请参考
 <https://www.ucloud.cn/site/product/jsq/>。
 
-[CDN计费方式（旧）](/ucdn/charge)
 
 **计费规则：**
 
