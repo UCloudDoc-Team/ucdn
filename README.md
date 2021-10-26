@@ -26,7 +26,7 @@
     * [内容刷新](/ucdn/content/refresh)             
 * 产品价格    
     * [计费方式概览](/ucdn/charge/type)
-    * [基础计费方式](/ucdn/charge/flowday_new)
+    * [基础计费方式(新)](/ucdn/charge/flowday_new)
     * [月结计费方式](/ucdn/charge/month)
     * [计费FAQ](/ucdn/charge/faq)	    
 * [FAQ](/ucdn/faq)
