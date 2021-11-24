@@ -123,7 +123,7 @@ A：在CDN加速和源站均无异常情况下，可能为阿里云云主机云�
 
 #### Q：如何初步定位CDN异常？
 
-A： 1.打开hosts文件，hosts文件一般存放在：c:windowssystem32driversetc目录下
+A： 1.打开hosts文件，hosts文件一般存放在：C:\Windows\System32\drivers\etc 目录下
 
 2.添加源IP及对应的故障域名。(如192.168.11.11 [www.abc.com，两者之间有空格，且IP在前](http://www.abc.xn--com%2C%2Cip-uy3kse4pk09afuozj4c2rdov4gvsslh9f/))
 
