@@ -1,9 +1,8 @@
-
 * [概览](/ucdn/README) 
 * [产品简介](/ucdn/intro)
 * [节点分布](/ucdn/node)  
 * 快速上手    
-     * [开通CDN服务](/ucdn/quick/open)
+     * [开通CDN服务](/ucdn/quick/open_new)
      * [创建加速域名](/ucdn/quick/create)
      * [域名审核](/ucdn/quick/check)
      * [配置CNAME](/ucdn/quick/cname)
@@ -17,9 +16,11 @@
     * [缓存配置](/ucdn/domain/config/cache)   
     * [高级配置](/ucdn/domain/config/more)   
 * 实时监控
+    * [概述](/ucdn/monitor/gaisu)
     * [带宽监控](/ucdn/monitor/bandwidth)
     * [请求数监控](/ucdn/monitor/request)
     * [命中率监控](/ucdn/monitor/hitrate)
+    * [状态码监控](/ucdn/monitor/HTTPcode)
 * [统计分析 ](/ucdn/statistics/flow) 
 * 内容管理 
     * [内容预取](/ucdn/content/prefetch)   
@@ -31,5 +32,5 @@
     * [计费FAQ](/ucdn/charge/faq)	    
 * [FAQ](/ucdn/faq)
 * 政策与协议
-  * [违规处理说明](/ucdn/protocol/zhengce)
-  * [CDN服务等级协议](/ucdn/protocol/xiey)
+    * [违规处理说明](/ucdn/protocol/zhengce)
+    * [CDN服务等级协议](/ucdn/protocol/xiey)
