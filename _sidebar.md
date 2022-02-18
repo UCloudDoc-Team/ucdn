@@ -7,7 +7,7 @@
      * [域名审核](/ucdn/quick/check)
      * [配置CNAME](/ucdn/quick/cname)
      * [停止CDN服务](/ucdn/quick/stop)  
-* [使用指南](/ucdn/guide)    
+* [使用指南]  
     * [实时监控](/ucdn/monitor/gaisu)
        * [带宽监控](/ucdn/monitor/bandwidth)
        * [请求数监控](/ucdn/monitor/request)
