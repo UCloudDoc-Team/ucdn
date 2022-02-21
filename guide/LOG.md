@@ -55,3 +55,10 @@
 |	TCP_REFRESH_MISS	|	cache时间过期，回源检查后未命中	|
 |	TCP_SWAPFAIL_MISS	|	磁盘命中失败而产生回源	|
 |	注：大文件现在只有TCP_MISS,TCP_HIT			|
+
+## 相关API
+| API | 描述信息 |
+|:---|:---|
+|[GetUcdnDomainLog](api/ucdn-api/get_ucdn_domain_log)|获取加速域名日志|
+|[GetUcdnDomainLogV2](api/ucdn-api/get_ucdn_domain_log_v2)|获取域名5分钟日志|
+
