@@ -26,7 +26,7 @@ UCLOUD内容加速系统是一套完全自研的内容加速软件系统，是UC
 
 ### CDN域名
 
-用户域名接入UCloud CDN的桥梁，当加速域名通过审核后，系统会生成一个CDN域名，需要用此域名修改对应的CNAME记录，实现CDN的智能选址和调度。修改方法参见“[dns配置cname记录](/quick/cname.md)”。
+用户域名接入UCloud CDN的桥梁，当加速域名通过审核后，系统会生成一个CDN域名，需要用此域名修改对应的CNAME记录，实现CDN的智能选址和调度。修改方法参见“[dns配置cname记录](/ucdn/quick/cname.md)”。
 
 ### 源站IP或域名
 
