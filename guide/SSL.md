@@ -20,3 +20,11 @@
 若需新增（删除）海外HTTPS,需先与客户经理了解相关事项，由后端人员配置。
 
 国外HTTPS相关费用请联系客户经理沟通确认。
+
+## 相关API：
+
+| API | 描述信息 |
+|:---|:---|
+|[AddCertificate](api/ucdn-api/add_certificate)|添加证书|
+|[DeleteCertificate](api/ucdn-api/delete_certificate)|删除证书|
+|[GetCertificateV2](api/ucdn-api/get_certificate_v2)|获取证书|
