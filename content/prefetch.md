@@ -26,6 +26,12 @@
 >
 >下载类型的加速，预取文件是主动从源站获取文件至二级服务器进行加速，需要注意：预取文件不能是图片、html、文本等能够在网页加速中进行加速的文件格式。
 
+相关API文档：
+
+获取预取任务状态: [DescribeNewUcdnPrefetchCacheTask](api/ucdn-api/describe_new_ucdn_prefetch_cache_task)
+
+提交预取任务:[PrefetchNewUcdnDomainCache](api/ucdn-api/prefetch_new_ucdn_domain_cache)
+
 
 #### 操作步骤：
 
