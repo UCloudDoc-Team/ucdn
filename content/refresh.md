@@ -27,6 +27,12 @@
 * 目录和文件如果同时填写，会同时提交目录和文件中填写的内容。内容刷新的记录和状态可在性能中进行查看。
 * 大文件下载和点播的内容刷新不允许输入中文，中文经过转码也不支持。 而网页加速的内容刷新允许输入中文，但是如果中文经过转码则会失败。
 
+相关API文档：
+
+获取域名刷新任务状态：[DescribeNewUcdnRefreshCacheTask](api/ucdn-api/describe_new_ucdn_refresh_cache_task)
+
+刷新缓存：[RefreshNewUcdnDomainCache](api/ucdn-api/refresh_new_ucdn_domain_cache)
+
 #### 操作步骤：
 
 ![image-20200304155547223](../images/image-20200304155547223.png)
