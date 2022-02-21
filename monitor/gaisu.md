@@ -14,3 +14,18 @@ UCloudCDN提供实时监控功能，在控制台【实时监控】页面下，�
 | 状态码/回源状态码 | 状态码监控，可查看域名状态码情况，支持1XX\2XX\3XX\4XX\5XX状态码。 |
 
 如下将会针对每个监控项进行逐一的介绍说明。
+
+## 相关API文档
+|API文档|相关描述信息|
+|------|------|
+|[GetUcdnDomain95BandwidthV2](api/ucdn-api/get_ucdn_domain95_bandwidth_v2)|获取域名九五峰值带宽数据【新】|
+|[GetUcdnDomainBandwidthV2](api/ucdn-api/get_ucdn_domain_bandwidth_v2)|获取域名带宽数据【新】|
+|[GetUcdnDomainHitRate](api/ucdn-api/get_ucdn_domain_hit_rate)|获取域名命中率(新）|
+|[GetUcdnDomainHttpCodeV2](api/ucdn-api/get_ucdn_domain_http_code_v2)|获取域名状态码信息【新】|
+|[GetUcdnDomainOriginHttpCode](api/ucdn-api/get_ucdn_domain_origin_http_code)|获取域名源站状态码监控|
+|[GetUcdnDomainOriginHttpCodeDetail](api/ucdn-api/get_ucdn_domain_origin_http_code_detail)|获取域名源站详细状态码监控|
+|[GetUcdnDomainOriginRequestNum](api/ucdn-api/get_ucdn_domain_origin_request_num)|获取域名回源请求数【新】|
+|[GetUcdnPassBandwidthV2](api/ucdn-api/get_ucdn_pass_bandwidth_v2)|获取回源带宽数据（按时间分类）【新】|
+|[GetUcdnProIspBandwidthV2](api/ucdn-api/get_ucdn_pro_isp_bandwidth_v2)|按省份运营商获取域名带宽数据【新】|
+|[GetUcdnProIspRequestNumV2](api/ucdn-api/get_ucdn_pro_isp_request_num_v2)|按省份运营商获取域名请求数【新】|
+|[GetUcdnTrafficV2](api/ucdn-api/get_ucdn_traffic_v2)|获取账户总流量信息【新】|
