@@ -57,3 +57,11 @@
 时长默认是最近一天，可勾选最近一周、最近一月、自定义时长。
 
 ![2022-统计分析-域名排行.png](../images/2022-统计分析-域名排行.png)
+
+## 相关API
+
+| API | 描述信息 |
+|:---|:---|
+|[GetNewUcdnLogRefererStatistics](api/ucdn-api/get_new_ucdn_log_referer_statistics)|获取热点referer统计|
+|[GetNewUcdnLogUrlStatistics](api/ucdn-api/get_new_ucdn_log_url_statistics)|获取日志url统计|
+
