@@ -14,7 +14,7 @@
 
 2.点击<code>创建加速</code>，根据您的业务类型选择合适的计费模式，并新增第一个域名。
 
-默认的计费方式为两种：<code>预付费流量包</code>和<code>日峰值带宽计费</code>，预付费流量包需先购买流量后，才能接入域名，详细计费规则请参考：!> [产品价格](https://docs.ucloud.cn/ucdn/charge/flowday_new)
+默认的计费方式为两种：<code>预付费流量包</code>和<code>日峰值带宽计费</code>，预付费流量包需先购买流量后，才能接入域名，详细计费规则请参考： !> [产品价格](https://docs.ucloud.cn/ucdn/charge/flowday_new)
 
 #### 预付费流量包：
 
