@@ -109,5 +109,5 @@
 | -------------- | ------------------------------------------------------------ |
 | 路径           | 配置参数缓存的URL，可以是文件类型，eg:<code> /.html</code>，可以是目录文件 eg:<code> /news/</code>，可以是详细路径文件 eg:<code>/news/image.jpg</code>|
 | 过滤方式       | 参数过滤方式，包含保留参数缓存、忽略参数缓存。|
-| 自定义参数变量 | 指需要忽略或保留的参数变量<br /><li>以"$"开头，表示变量，\$querystring 表示全部变量。<br /><li>多个变量用 “+“ 分隔，eg ：URL为：http://www.test.com/xxx.jpg?abc=500&def=600&hhh=700，保留参数abc和def缓存，则自定义参数变量为 \$abc+ \$def。若忽略参数abc缓存，则自定义参数变量为\$abc<br /><li>保留多个参数缓存时，参数缓存顺序以填写的变量顺序为准。|
+| 自定义参数变量 | 指需要忽略或保留的参数变量<br /><li>以<code>"$"</code>开头，表示变量，<code>\$querystring </code>表示全部变量。<br/><li>多个变量用<code> “+“ </code>分隔，eg ：URL为：<code> http://www.test.com/xxx.jpg?abc=500&def=600&hhh=700 </code>;保留参数abc和def缓存，则自定义参数变量为<code> \$abc+ \$def </code>;若忽略参数abc缓存，则自定义参数变量为<code> \$abc </code><br /> <li>保留多个参数缓存时，参数缓存顺序以填写的变量顺序为准。|
 
