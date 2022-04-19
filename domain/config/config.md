@@ -42,7 +42,6 @@ UCloudCDN支持的源站类型包括源站域名、UFile域名、IP。
 当回源请求返回301/302状态码时，节点会直接请求指定地址获取资源。
 
 
-
 #### 操作步骤：
 
 1.进入UCDN产品控制台<code>域名管理</code>页面，选择需要配置的域名。
@@ -64,3 +63,25 @@ UCloudCDN支持的源站类型包括源站域名、UFile域名、IP。
 ![image-20191211152939318](../../images/image-20191211152939318.png)
 
 ![image-20191211153210705](../../images/image-20191211153210705.png)
+
+#### 配置源站为US3域名
+
+1.需要在US3创建存储空间,空间类型为，<strong>公开空间</strong>
+
+![image](https://user-images.githubusercontent.com/89777962/163987261-da855a7e-139e-45af-992f-8fc0c537ffce.png)
+
+2.点击<code>域名管理</code>,进入bucket域名管理页面，点击<code>绑定自定义域名</code>;自定义域名填写为需要在CDN加速的域名，并选择CDN加速为<code>是</code>
+
+![image](https://user-images.githubusercontent.com/89777962/163988296-998593e8-f15d-478d-b574-3dd53fb397d9.png)
+
+3.点击<code>确定</code>之后会跳转到CDN配置页面，此时系统已自动填写加速域名和源站信息，在确认其他配置完成之后，可以点击确定，完成CDN域名新增
+
+![image](https://user-images.githubusercontent.com/89777962/163989061-67e6045e-2c36-490b-9ed7-ad1631dc7c7b.png)
+
+4.确定之后，新增域名成功，页面跳转到CDN域名管理列表，待审核下发完成之后，进行域名CNAME切换即可完成CDN加速。
+
+![image](https://user-images.githubusercontent.com/89777962/163989856-2e6383d1-e55f-4e82-b282-0749c03ed75f.png)
+
+5.对应的US3自定义域名也会相应的添加对应的记录
+
+![image](https://user-images.githubusercontent.com/89777962/163990038-70534999-61cf-4c5e-8393-0eb44c255dee.png)
