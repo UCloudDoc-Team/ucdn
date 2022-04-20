@@ -85,3 +85,5 @@ UCloudCDN支持的源站类型包括源站域名、UFile域名、IP。
 5.对应的US3自定义域名也会相应的添加对应的记录
 
 ![image](https://user-images.githubusercontent.com/89777962/163990038-70534999-61cf-4c5e-8393-0eb44c255dee.png)
+
+6.如果已有存储空间，在CDN配置业务域名时，源站是US3的域名，US3就会自动在自定义域名生成对应的业务域名。
