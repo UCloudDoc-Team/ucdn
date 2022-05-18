@@ -41,6 +41,14 @@
 |	27	|	从ufile获取的字节数	|	从ufile获取的字节数 目前都是0	|	0	|
 |	28	|	cache端口	|	cache端口(开发调试用)	|	40080	|
 |	29	|	传输协议	|		|	HTTP	|
+| 30  |请求host |实际请求的host，如果为泛域名则这⾥是客户端实际请求的host|
+
+
+日志示例
+```
+[2020-01-01 18:57:36] 36.x.x.x "GET /xx.mp4?time=1592287214&signature=xxxxxxxxxxxxx HTTP/1.1" TCP_HIT 200 12558573 1949 xxxx.com "" - NONE/- 36.x.x.x 36.x.x.x 0 1 0 "stagefright/1.2+(Linux;Android+8.1.0)" 1615892254 1806241317 - 12557915 12557915 12558573 0 0 50 0 40080 https xxxx.com
+
+```
 
 ### 备注1
 
