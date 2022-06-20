@@ -44,17 +44,17 @@ UCloudCDN支持的源站类型包括源站域名、UFile域名、IP。
 
 #### 操作步骤：
 
-1.进入UCDN产品控制台<code>域名管理</code>页面，选择需要配置的域名。
+1.进入UCDN产品控制台<strong>域名管理</strong>页面，选择需要配置的域名。
 
 ![2022-UCDN域名管理](../../images/2022-UCDN域名管理.png)
 
-2.进入域名配置详情页面，选择<code>域名配置</code>→<code>基础设置</code>→<code>回源设置</code>，进行回源相关配置。
+2.进入域名配置详情页面，选择<strong>域名配置</strong>→<strong>基础设置</strong>→<strong>回源设置</strong>，进行回源相关配置。
 
 ![2022-域名配置-基础设置](../../images/2022-域名配置-基础设置.png)
 
 3.修改源站、修改回源HOST、回源端口、回源协议等。
 
->配置修改完成后一定要点击<code>**确认配置**</code>后，才能成功修改配置。
+>配置修改完成后一定要点击<strong>**确认配置**</strong>后，才能成功修改配置。
 >
 >![2022-域名配置-确认配置](../../images/2022-域名配置-确认配置.png)
 
@@ -70,11 +70,11 @@ UCloudCDN支持的源站类型包括源站域名、UFile域名、IP。
 
 ![image](https://user-images.githubusercontent.com/89777962/163987261-da855a7e-139e-45af-992f-8fc0c537ffce.png)
 
-2.点击<code>域名管理</code>,进入bucket域名管理页面，点击<code>绑定自定义域名</code>;自定义域名填写为需要在CDN加速的域名，并选择CDN加速为<code>是</code>
+2.点击<strong>域名管理</strong>,进入bucket域名管理页面，点击<strong>绑定自定义域名</strong>;自定义域名填写为需要在CDN加速的域名，并选择CDN加速为<strong>是</strong>
 
 ![image](https://user-images.githubusercontent.com/89777962/163988296-998593e8-f15d-478d-b574-3dd53fb397d9.png)
 
-3.点击<code>确定</code>之后会跳转到CDN配置页面，此时系统已自动填写加速域名和源站信息，在确认其他配置完成之后，可以点击确定，完成CDN域名新增
+3.点击<strong>确定</strong>之后会跳转到CDN配置页面，此时系统已自动填写加速域名和源站信息，在确认其他配置完成之后，可以点击确定，完成CDN域名新增
 
 ![image](https://user-images.githubusercontent.com/89777962/163989061-67e6045e-2c36-490b-9ed7-ad1631dc7c7b.png)
 
