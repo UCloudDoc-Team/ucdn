@@ -51,24 +51,23 @@ A：页面加速：默认情况下，php、aspx、asp、jsp、do、dwr等动态�
 
 A：支持MD5防盗链，用户需提供指定秘钥，同步技术支持进行配置
 
-k = substr(md5(密钥 + 文件URI + 过期时间 t),8,16)
+k = md5(密钥 + 文件URI + 过期时间 t)
 
-1.k， URL 中参数名，substr(md5(串值),8,16)， md5 生成的串是 32 位，取出中间的 16 位作为参数 k 的值
+1、k：URL 中参数名，md5(串值)， md5 生成的串是 32 位。
 
-2.t， 过期时间，如当前是 2012-04-23 16:20:00 设置有效时长 2 小时，即失效时间为2012-04-23 18:20:00
-换算成基于 1970 年的秒数为 1335176400，即参数 t 的值
+2、t：过期时间，如当前是 2012-04-23 16:20:00 设置有效时长 2 小时，即失效时间为2012-04-23 18:20:00 换算成基于 1970 年的秒数为 1335176400，即参数 t 的值。
 
-3.密钥， 协商好的字符串.
+3：密钥：用户提供秘钥字符串。
 
-举例： URL：<http://tysxtest.ufile.ucloud.com.cn/test/3e2_teacher_720p.mp4>
+举例： URL：http://tysxtest.ufile.ucloud.com.cn/test/3e2_teacher_720p.mp4
 
-key :如 whaty321
+密钥： whaty321；
 
-t：如2019-07-01 12:00过期，转换后t=1561953600
+过期时间：2小时。如2019-07-01 12:00过期，转换后t=1561953600；
 
-k=substr(md5(whaty321/test/3e2\_teacher\_720p.mp41561953600))=substr(1100bda530528404109eaa80bd9fb9d8,8,16)=30528404109eaa80
+k=md5(whaty321/test/3e2_teacher_720p.mp41561953600)=1100bda530528404109eaa80bd9fb9d8
 
-添加防盗链后的URL为：<http://tysxtest.ufile.ucloud.com.cn/test/3e2_teacher_720p.mp4?k=30528404109eaa80&t=1561953600>
+添加防盗链后的URL：http://tysxtest.ufile.ucloud.com.cn/test/3e2_teacher_720p.mp4?k=1100bda530528404109eaa80bd9fb9d8&t=1561953600
 
 使用防盗链的URL能够进行正常访问，如果k对应不上则访问失效，如果校验发现t的时间已经超过有效时长，校验也会失败。
 
