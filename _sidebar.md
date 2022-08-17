@@ -19,6 +19,7 @@
          * [内容刷新](/ucdn/content/refresh)      
     * [域名配置](/ucdn/domain/domain1)
          * [域名基础信息](/ucdn/domain/basic)
+         * [基础信息](/ucdn/domain/config/Basic) 
          * [回源配置](/ucdn/domain/config/config)      
          * [访问控制](/ucdn/domain/config/control)  
          * [缓存配置](/ucdn/domain/config/cache)   
