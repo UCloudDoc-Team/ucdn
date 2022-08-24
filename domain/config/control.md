@@ -9,6 +9,7 @@
 *  Referer防盗链是根据 HTTP Request Header 中 <strong>referer </strong>字段的值来识别和判断，根据用户设置的策略，进行访问用户过滤。
 *  目前Referer防盗链分为黑名单和白名单两种机制，默认情况下不启用。
 *  可设置是否允许空Referer字段访问资源，即允许通过浏览器地址栏直接访问资源URL。
+*  最多可设置100个，多个以回车符分隔；不支持正则；referer为泛域名时，请以*.开头, 例如:*.example2.com，包括任意的匹配主机头和空主机头。
 
 Referer防盗链
 
