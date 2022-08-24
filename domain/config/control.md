@@ -15,7 +15,7 @@ Referer防盗链
 
 ![image-20191218182608509](../../images/image-20191218182608509.png)
 
-![image-20191218182623416](../../images/image-20191218182623416.png)
+![image](https://user-images.githubusercontent.com/89777962/186365377-ac52d712-c639-4eeb-9844-d29a3730793f.png)
 
 
 ## IP黑名单
