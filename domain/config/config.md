@@ -74,7 +74,9 @@ UCloudCDN支持的源站类型包括源站域名、UFile域名、IP。
 
 ![image](https://user-images.githubusercontent.com/89777962/163988296-998593e8-f15d-478d-b574-3dd53fb397d9.png)
 
-3.点击<strong>确定</strong>之后会跳转到CDN配置页面，此时系统已自动填写加速域名和源站信息，在确认其他配置完成之后，可以点击确定，完成CDN域名新增
+3.点击<strong>确定</strong>之后会跳转到CDN配置页面，此时系统已自动填写加速域名和源站信息，在确认其他配置完成之后，可以点击确定，完成CDN域名新增.
+
+注意：域名配置中回源HOST需配置为：<strong>跟随加速域名</strong>（默认），否则US3不会将CDN回源流量识别为CDN回源流出流量而进行收费（会识别为外网流出流量）。
 
 ![image](https://user-images.githubusercontent.com/89777962/163989061-67e6045e-2c36-490b-9ed7-ad1631dc7c7b.png)
 
