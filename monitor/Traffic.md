@@ -3,8 +3,8 @@
 在实时监控页面，会显示当前计费模式
 
 当前计费模式为流量包预付费时，会显示当前境内以及境外的剩余流量情况。
+![image](https://user-images.githubusercontent.com/89777962/207570509-b0436c19-9a71-48f5-918e-4d4d4e6e10e8.png)
 
-![image](https://user-images.githubusercontent.com/89777962/206367999-41cf6595-2925-4993-8429-eaebcd1078d6.png)
 
 点击【流量包详情】跳转到流量包详情页面
 
@@ -18,6 +18,11 @@
 |已用完|显示在失效流量包页面，表示当前流量包已用完|
 |已过期|显示在失效流量包页面，表示当前流量包已过期，若还有剩余流量，则无法使用|
 |已退订|显示在失效流量包页面，主要为未使用的流量包退订之后，状态显示为已退订状态|
+
+![image](https://user-images.githubusercontent.com/89777962/207570701-9ae89f78-fdac-455f-8c64-6c35d15e8593.png)
+![image](https://user-images.githubusercontent.com/89777962/207570745-9984687f-d39a-418d-b67a-07e31ec281b4.png)
+
+
 
 相关问题
 
