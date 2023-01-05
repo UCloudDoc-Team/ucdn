@@ -8,6 +8,7 @@
      * [停止CDN服务](/ucdn/quick/stop)  
 * 使用指南
     * [实时监控](/ucdn/monitor/gaisu)
+       * [流量包详情](/ucdn/monitor/Traffic) 
        * [带宽监控](/ucdn/monitor/bandwidth)
        * [请求数监控](/ucdn/monitor/request)
        * [命中率监控](/ucdn/monitor/hitrate)
