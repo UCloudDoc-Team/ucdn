@@ -10,9 +10,10 @@ UCDN首次权限开启包括国内/海外加速，无需另外再申请开启海
 
 ### 操作步骤
 
-1.登录UCloud控制台，点击进入UCDN产品界面
+1.登录UCloud控制台，点击进入UCDN产品界面。
 
-![2021-UCDN首次新增域名](/images/2021-UCDN首次新增域名.png)
+![image](https://user-images.githubusercontent.com/89777962/230529122-1ce668e0-29bc-4bbb-a447-a3be6684110e.png)
+
 
 2.点击<code>创建加速</code>，根据您的业务类型选择合适的计费模式，并新增第一个域名。
 
