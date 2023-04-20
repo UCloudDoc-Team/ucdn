@@ -2,9 +2,7 @@
 
 在实时监控页面，会显示当前计费模式
 
-当前计费模式为<strong>流量包预付费</strong>时，会显示当前<strong>境内</strong>以及<strong>境外</strong>的剩余流量情况。
-![image](https://user-images.githubusercontent.com/89777962/207570509-b0436c19-9a71-48f5-918e-4d4d4e6e10e8.png)
-
+当计费模式为<strong>流量包预付费</strong>时，会显示当前<strong>境内</strong>以及<strong>境外</strong>的剩余流量情况，且只有计费模式为<strong>流量包预付费</strong>时，才会出现流量包详情页面入口。
 
 点击【流量包详情】跳转到流量包详情页面
 
@@ -14,7 +12,7 @@
 
 |状态|说明|
 |---|---|
-|未使用|显示在有效流量包页面，已购买该流量包，但还使用该流量包，若购买日期未超过<strong>30天</strong>，可以退订|
+|未使用|显示在有效流量包页面，已购买该流量包，但还未使用，若购买日期<strong>未超过30天</strong>，可退订|
 |使用中|显示在有效流量包页面，当前所使用的流量包|
 |已用完|显示在失效流量包页面，表示当前流量包已用完|
 |已过期|显示在失效流量包页面，表示当前流量包已过期，若还有剩余流量，则无法使用|
@@ -22,7 +20,6 @@
 
 ![image](https://user-images.githubusercontent.com/89777962/207570701-9ae89f78-fdac-455f-8c64-6c35d15e8593.png)
 ![image](https://user-images.githubusercontent.com/89777962/207570745-9984687f-d39a-418d-b67a-07e31ec281b4.png)
-
 
 
 #### 相关问题
