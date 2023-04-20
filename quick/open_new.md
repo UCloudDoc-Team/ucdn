@@ -17,16 +17,22 @@ UCDN首次权限开启包括国内/海外加速，无需另外再申请开启海
 
 2.点击<code>创建加速</code>，根据您的业务类型选择合适的计费模式，并新增第一个域名。
 
-默认的计费方式为两种：<code>预付费流量包</code>和<code>日峰值带宽计费</code>，预付费流量包需先购买流量后，才能接入域名。
-详细计费规则请参考： 
+> 注：若要新增全站加速域名，需在域名管理页面切换到全站加速页面下进行创建加速。
 
-?> [UCDN产品价格](https://docs.ucloud.cn/ucdn/charge/flowday_new)
+可选择的计费方式为两种：<code>预付费流量包</code>和<code>日峰值带宽计费</code>。
+详细计费规则请参考计费方式概览： 
+
+?> [UCDN计费方式概览](https://docs.ucloud.cn/ucdn/charge/type)
 
 #### 预付费流量包：
+
+选择计费方式为<code>预付费流量包</code>时，需购买流量包，才能新增域名，流量包费用参考[基础计费方式](https://docs.ucloud.cn/ucdn/charge/flowday_new)
 
 ![2022-UCDN首次新增域名-预付费流量包新增域名](/images/2022-UCDN首次新增域名-预付费流量包新增域名.png)
 
 #### 日带宽峰值计费：
+
+选择计费方式为<code>日峰值带宽计费</code>后可以直接新增域名，按照每天实际使用的带宽峰值进行计费，费用参考[基础计费方式](https://docs.ucloud.cn/ucdn/charge/flowday_new)
 
 ![2021-UCDN首次新增域名-日峰值带宽计费](/images/2021-UCDN首次新增域名-日峰值带宽计费.png)
 
