@@ -57,6 +57,34 @@
 
 ![image-20191219165531832](../../images/image-20191219165531832.png)
 
+
+## 全站加速特殊配置
+
+### Quic
+
+Quic协议实现低延时传输，适用于弱网环境，若您的业务用户场景需要保持网络流畅性，可选择使用Quic协议。
+
+Quic协议服务为增值服务，需针对请求数进行收费，费用详情请参考[全站加速-请求数](https://docs.ucloud.cn/ucdn/charge/flowday_new?id=%e5%85%a8%e7%ab%99%e5%8a%a0%e9%80%9f-%e8%af%b7%e6%b1%82%e6%95%b0)
+
+开启方式：联系客户经理非标开启。
+
+开启完成后，您可以在对应域名配置下查看服务开启状态。
+
+![image](https://user-images.githubusercontent.com/89777962/233562214-fc604bf9-9871-41e4-8af6-b48bb1724edd.png)
+
+### WebSocket
+
+WebSocket能保持实时通信，不需要一直通过向服务端发出请求来保持链接。当您的服务需要主动推送信息到客户端，且针对实时通信要求较高，建议您选择开启WebSocket服务。
+
+Websocket服务为增值业务收费，费用详情参考 [全站加速WebSocket月流量计费](https://docs.ucloud.cn/ucdn/charge/month?id=%e5%85%a8%e7%ab%99%e5%8a%a0%e9%80%9fwebsocket%e6%9c%88%e6%b5%81%e9%87%8f%e8%ae%a1%e8%b4%b9)
+
+开启方式：联系客户经理非标开启。
+
+开启完成后，您可以在对应域名配置下查看服务开启状态。
+
+![image](https://user-images.githubusercontent.com/89777962/233562150-ff331a8a-2b6f-47ba-a7fc-0382e11d239c.png)
+
+
 ## 更多非标配置
 
 当您需要针对域名配置更多策略，但控制台自助无法满足，需联系客户经理或者技术支持进行非标配置；
