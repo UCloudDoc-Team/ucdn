@@ -64,13 +64,7 @@
 ![image](https://user-images.githubusercontent.com/89777962/185051159-bafffff4-2a93-46b6-930c-8be166c7702d.png)
 
 
-## 区域加速
+## HTTPS配置
 
-基本信息里还有两个模块，国内加速和境外加速
-
-![image](https://user-images.githubusercontent.com/89777962/185051491-1cf90e4e-3f96-4482-8679-2292c80bc509.png)
-
-可以在国内加速模块绑定或更换证书，海外证书配置需要在了解[海外证书托管费用](https://docs.ucloud.cn/ucdn/charge/month?id=%e6%b5%b7%e5%a4%96%e8%af%81%e4%b9%a6%e6%89%98%e7%ae%a1%e8%b4%b9%e7%94%a8)后，与客户经理或者技术支持沟通进行非标配置开启。
-
-开启或者关闭单地区加速，也需要联系客户经理或者技术支持。
+您可以配置分地区部署HTTPS，其中使用境外HTTPS需支付HTTPS请求数费用，费用详情[CDN境外HTTPS请求数计费](https://cms-docs.ucloudadmin.com/ucdn/charge/flowday_new?id=cdn%e5%a2%83%e5%a4%96https%e8%af%b7%e6%b1%82%e6%95%b0)
 
