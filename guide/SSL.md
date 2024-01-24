@@ -20,9 +20,7 @@
 
 <li /> 如需更换证书，请上传新的证书后到域名详情页面进行新证书的绑定。
 
-<li /> 若需新增（删除）海外HTTPS,需先与客户经理了解相关事项，由后端人员配置。
-
-<li /> 国外HTTPS相关费用请联系客户经理沟通确认。
+<li /> 若需新增海外HTTPS,请知悉HTTPS请求数费用，详情见[CDN境外HTTPS请求数计费](https://docs.ucloud.cn/ucdn/charge/flowday_new?id=cdn%e5%a2%83%e5%a4%96https%e8%af%b7%e6%b1%82%e6%95%b0)
 
 ## 相关API：
 
