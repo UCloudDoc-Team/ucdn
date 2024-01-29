@@ -32,9 +32,9 @@
 
 相关API文档：
 
-获取预取任务状态: [DescribeNewUcdnPrefetchCacheTask](api/ucdn-api/describe_new_ucdn_prefetch_cache_task)
+获取预取任务状态: [DescribeNewUcdnPrefetchCacheTask](https://docs.ucloud.cn/api/ucdn-api/describe_new_ucdn_prefetch_cache_task)
 
-提交预取任务:[PrefetchNewUcdnDomainCache](api/ucdn-api/prefetch_new_ucdn_domain_cache)
+提交预取任务:[PrefetchNewUcdnDomainCache](https://docs.ucloud.cn/api/ucdn-api/prefetch_new_ucdn_domain_cache)
 
 
 #### 操作步骤：
