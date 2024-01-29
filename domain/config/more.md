@@ -6,22 +6,22 @@
 
 |功能|是否支持|
 |----|------|
-|[强制跳转](https://docs.ucloud.cn/ucdn/domain/config/more?id=%e5%bc%ba%e5%88%b6%e8%b7%b3%e8%bd%ac)|支持|
-|[自定义回源Header头](https://docs.ucloud.cn/ucdn/domain/config/more?id=%e8%87%aa%e5%ae%9a%e4%b9%89%e5%9b%9e%e6%ba%90header%e5%a4%b4)|支持|
-|[自定义响应Header头](https://docs.ucloud.cn/ucdn/domain/config/more?id=%e8%87%aa%e5%ae%9a%e4%b9%89%e5%93%8d%e5%ba%94header%e5%a4%b4)|支持|
-|[全站加速-QUIC](https://docs.ucloud.cn/ucdn/domain/config/more?id=quic)|支持|
-|[全站加速Websocket](https://docs.ucloud.cn/ucdn/domain/config/more?id=websocket)|支持|
-|[IPv6](https://docs.ucloud.cn/ucdn/domain/config/more?id=%e5%8d%8f%e8%ae%ae%e7%b1%bb)|支持|
-|[range回源](https://docs.ucloud.cn/ucdn/domain/config/more?id=%e5%9b%9e%e6%ba%90%e7%b1%bb)|支持|
-|[UA黑白名单](https://docs.ucloud.cn/ucdn/domain/config/more?id=%e8%ae%bf%e9%97%ae%e6%8e%a7%e5%88%b6%e7%b1%bb)|支持|
-|[时间戳防盗链](https://docs.ucloud.cn/ucdn/domain/config/more?id=%e8%ae%bf%e9%97%ae%e6%8e%a7%e5%88%b6%e7%b1%bb)|支持|
-|[带宽封顶](https://docs.ucloud.cn/ucdn/domain/config/more?id=%e8%ae%bf%e9%97%ae%e6%8e%a7%e5%88%b6%e7%b1%bb)|支持|
-|[单链接限速](https://docs.ucloud.cn/ucdn/domain/config/more?id=%e8%ae%bf%e9%97%ae%e6%8e%a7%e5%88%b6%e7%b1%bb)|支持|
-|[IP访问频次限制](https://docs.ucloud.cn/ucdn/domain/config/more?id=%e8%ae%bf%e9%97%ae%e6%8e%a7%e5%88%b6%e7%b1%bb)|支持|
-|[Http2.0](https://docs.ucloud.cn/ucdn/domain/config/more?id=https%e7%9b%b8%e5%85%b3)|支持|
-|[HTTPS强制跳转](https://docs.ucloud.cn/ucdn/domain/config/more?id=https%e7%9b%b8%e5%85%b3)|支持|
-|[OCSP](https://docs.ucloud.cn/ucdn/domain/config/more?id=https%e7%9b%b8%e5%85%b3)|支持|
-|[智能压缩](https://docs.ucloud.cn/ucdn/domain/config/more?id=%e5%85%b6%e4%bb%96%e9%85%8d%e7%bd%ae)|支持|
+|[强制跳转](../ucdn/domain/config/more?id=%e5%bc%ba%e5%88%b6%e8%b7%b3%e8%bd%ac)|支持|
+|[自定义回源Header头](../ucdn/domain/config/more?id=%e8%87%aa%e5%ae%9a%e4%b9%89%e5%9b%9e%e6%ba%90header%e5%a4%b4)|支持|
+|[自定义响应Header头](../ucdn/domain/config/more?id=%e8%87%aa%e5%ae%9a%e4%b9%89%e5%93%8d%e5%ba%94header%e5%a4%b4)|支持|
+|[全站加速-QUIC](../ucdn/domain/config/more?id=quic)|支持|
+|[全站加速Websocket](../ucdn/domain/config/more?id=websocket)|支持|
+|[IPv6](../ucdn/domain/config/more?id=%e5%8d%8f%e8%ae%ae%e7%b1%bb)|支持|
+|[range回源](../ucdn/domain/config/more?id=%e5%9b%9e%e6%ba%90%e7%b1%bb)|支持|
+|[UA黑白名单](../ucdn/domain/config/more?id=%e8%ae%bf%e9%97%ae%e6%8e%a7%e5%88%b6%e7%b1%bb)|支持|
+|[时间戳防盗链](../ucdn/domain/config/more?id=%e8%ae%bf%e9%97%ae%e6%8e%a7%e5%88%b6%e7%b1%bb)|支持|
+|[带宽封顶](../ucdn/domain/config/more?id=%e8%ae%bf%e9%97%ae%e6%8e%a7%e5%88%b6%e7%b1%bb)|支持|
+|[单链接限速](../ucdn/domain/config/more?id=%e8%ae%bf%e9%97%ae%e6%8e%a7%e5%88%b6%e7%b1%bb)|支持|
+|[IP访问频次限制](../ucdn/domain/config/more?id=%e8%ae%bf%e9%97%ae%e6%8e%a7%e5%88%b6%e7%b1%bb)|支持|
+|[Http2.0](../ucdn/domain/config/more?id=https%e7%9b%b8%e5%85%b3)|支持|
+|[HTTPS强制跳转](../ucdn/domain/config/more?id=https%e7%9b%b8%e5%85%b3)|支持|
+|[OCSP](../ucdn/domain/config/more?id=https%e7%9b%b8%e5%85%b3)|支持|
+|[智能压缩](../ucdn/domain/config/more?id=%e5%85%b6%e4%bb%96%e9%85%8d%e7%bd%ae)|支持|
 
 ## 强制跳转
 
