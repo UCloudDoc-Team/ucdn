@@ -28,6 +28,6 @@
 
 | API | 描述信息 |
 |:---|:---|
-|[AddCertificate](api/ucdn-api/add_certificate)|添加证书|
-|[DeleteCertificate](api/ucdn-api/delete_certificate)|删除证书|
-|[GetCertificateV2](api/ucdn-api/get_certificate_v2)|获取证书|
+|[AddCertificate](https://docs.ucloud.cn/api/ucdn-api/add_certificate)|添加证书|
+|[DeleteCertificate](https://docs.ucloud.cn/api/ucdn-api/delete_certificate)|删除证书|
+|[GetCertificateV2](https://docs.ucloud.cn/api/ucdn-api/get_certificate_v2)|获取证书|
