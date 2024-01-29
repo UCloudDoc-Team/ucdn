@@ -17,5 +17,5 @@ UCloudCDN控制台【域名管理】页面下，您将会看到账户计费方�
 ## 相关API
 | API | 描述信息 |
 |:---|:---|
-|[GetUcdnDomainInfoList](api/ucdn-api/get_ucdn_domain_info_list)|获取域名基本信息|
-|[GetUcdnDomainConfig](api/ucdn-api/get_ucdn_domain_config)|批量获取加速域名配置|
+|[GetUcdnDomainInfoList](https://docs.ucloud.cn/api/ucdn-api/get_ucdn_domain_info_list)|获取域名基本信息|
+|[GetUcdnDomainConfig](https://docs.ucloud.cn/api/ucdn-api/get_ucdn_domain_config)|批量获取加速域名配置|
