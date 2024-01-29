@@ -66,5 +66,5 @@
 
 ## HTTPS配置
 
-您可以配置分地区部署HTTPS，其中使用境外HTTPS需支付HTTPS请求数费用，费用详情[CDN境外HTTPS请求数计费](https://docs.ucloud.cn/ucdn/charge/flowday_new?id=cdn%e5%a2%83%e5%a4%96https%e8%af%b7%e6%b1%82%e6%95%b0)
+您可以配置分地区部署HTTPS，其中使用境外HTTPS需支付HTTPS请求数费用，费用详情[CDN境外HTTPS请求数计费](https://docs.ucloud.cn/ucdn/charge/flowday_new?id=cdn境外https证书托管费)
 
