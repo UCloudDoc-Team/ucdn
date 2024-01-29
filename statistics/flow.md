@@ -62,6 +62,6 @@
 
 | API | 描述信息 |
 |:---|:---|
-|[GetNewUcdnLogRefererStatistics](api/ucdn-api/get_new_ucdn_log_referer_statistics)|获取热点referer统计|
-|[GetNewUcdnLogUrlStatistics](api/ucdn-api/get_new_ucdn_log_url_statistics)|获取日志url统计|
+|[GetNewUcdnLogRefererStatistics](https://docs.ucloud.cn/api/ucdn-api/get_new_ucdn_log_referer_statistics)|获取热点referer统计|
+|[GetNewUcdnLogUrlStatistics](https://docs.ucloud.cn/api/ucdn-api/get_new_ucdn_log_url_statistics)|获取日志url统计|
 
