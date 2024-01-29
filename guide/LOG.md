@@ -69,5 +69,5 @@
 ## 相关API
 | API | 描述信息 |
 |:---|:---|
-|[GetUcdnDomainLogV2](api/ucdn-api/get_ucdn_domain_log_v2)|获取域名5分钟日志|
+|[GetUcdnDomainLogV2](https://docs.ucloud.cn/api/ucdn-api/get_ucdn_domain_log_v2)|获取域名5分钟日志|
 
