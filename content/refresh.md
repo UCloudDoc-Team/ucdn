@@ -45,9 +45,9 @@
 
 相关API文档：
 
-获取域名刷新任务状态：[DescribeNewUcdnRefreshCacheTask](api/ucdn-api/describe_new_ucdn_refresh_cache_task)
+获取域名刷新任务状态：[DescribeNewUcdnRefreshCacheTask](https://docs.ucloud.cn/api/ucdn-api/describe_new_ucdn_refresh_cache_task)
 
-刷新缓存：[RefreshNewUcdnDomainCache](api/ucdn-api/refresh_new_ucdn_domain_cache)
+刷新缓存：[RefreshNewUcdnDomainCache](https://docs.ucloud.cn/api/ucdn-api/refresh_new_ucdn_domain_cache)
 
 #### 操作步骤：
 
