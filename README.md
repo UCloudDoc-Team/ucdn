@@ -26,11 +26,11 @@
          * [访问控制](/ucdn/domain/config/control)  
          * [缓存配置](/ucdn/domain/config/cache)   
          * [高级配置](/ucdn/domain/config/more)   
-    * [证书管理](/ucdn/guide/SSL)
+    * [证书管理](/ucdn/guide/SSL-2024)
     * [日志下载](/ucdn/guide/LOG)
 
 * 产品价格
-    * [计费方式概览](/ucdn/charge/type)
+    * [计费方式概览](/ucdn/charge/type-2024)
     * [静态加速计费说明](/ucdn/charge/flowday_new)
     * [全站加速计费说明](/ucdn/charge/flowday-dcdn.md)
     * [月结计费方式](/ucdn/charge/month)
