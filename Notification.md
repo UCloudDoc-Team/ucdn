@@ -18,6 +18,19 @@
 |----|--------|--------|
 |境外HTTPS证书托管费|	元/月/张|	600|
 
+<table align="lift">
+  <tr>
+    <th>计费项目</th>
+    <th>计费单位</th>
+    <th>单价</th>
+  </tr>
+  <tr>
+    <td>境外HTTPS证书托管费</td>
+    <td>元/月/张</td>
+    <td>600</td>
+  </tr>
+</table>
+
 账单对应收费项：
 
 ![企业微信截图_17127491723525](https://github.com/UCloudDoc-Team/ucdn/assets/89777962/e729cc5f-9542-411b-b0ea-4d38e913f25b)
