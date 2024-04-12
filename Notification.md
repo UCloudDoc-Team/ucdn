@@ -25,8 +25,8 @@
     <th>单价</th>
   </tr>
   <tr>
-    <td>境外HTTPS证书托管费</td>
-    <td>元/月/张</td>
+    <td  align="center">境外HTTPS证书托管费</td>
+    <td align="center">元/月/张</td>
     <td>600</td>
   </tr>
 </table>
