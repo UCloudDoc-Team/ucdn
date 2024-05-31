@@ -12,11 +12,16 @@
 
 |匹配规则(多选)	|逻辑(单选）|	参数|	参数限制	|参数示例  |
 |----|----|----|----|----|
-|IP   	|等于/不等于	  	|客户填写，按回车符隔开  	|	500条  	|	1.1.1.1
-1.2.3.0/24  	|
+|IP   	|等于/不等于	  	|客户填写，按回车符隔开  	|	500条  	|	1.1.1.1 <br />   1.2.3.0/24  	|
 |User-Agent	  	|等于/不等于	  	|客户填写，按回车符隔开，模糊匹配	  	|100条  	|Chrome/122.0.0.0 Safari/537.36
-|Referer  	|	等于/不等于  	|	客户填写，按回车符隔开  	|	100条  	|	*.aaa.ucloud.com  
-aaa.ucloud.com.cn	|
-|URL  	|	等于/不等于	  	|客户填写，按回车符隔开  	|	100条  	|	http://.www.ttt1.com/1.txt 
-^https?:// [^/] +/dir1/dir2/(dir3_1|dir3_2).html$  	|
+|Referer  	|	等于/不等于  	|	客户填写，按回车符隔开  	|	100条  	|	*.aaa.ucloud.com  <br /> aaa.ucloud.com.cn	|
+|URL  	|	等于/不等于	  	|客户填写，按回车符隔开  	|	100条  	|	http://.www.ttt1.com/1.txt <br /> ^https?:// [^/] +/dir1/dir2/(dir3_1|dir3_2).html$  	|
 |method	  	|等于/不等于	  	|GET(默认)/POST  	| 二选一	  	|	GET  	|
+
+配置示例
+IP封禁：
+
+
+IP+UA+Referer封禁
+
+
