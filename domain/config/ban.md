@@ -20,8 +20,10 @@
 
 配置示例
 IP封禁：
+![image](https://github.com/UCloudDoc-Team/ucdn/assets/89777962/e42a00ef-f0da-4b9c-a4c6-57b20060e540)
 
 
 IP+UA+Referer封禁
+![image](https://github.com/UCloudDoc-Team/ucdn/assets/89777962/b2172d33-8181-4980-978a-7b73c45629d6)
 
 
