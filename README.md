@@ -34,6 +34,7 @@
     * [静态加速计费说明](/ucdn/charge/flowday_new)
     * [全站加速计费说明](/ucdn/charge/flowday-dcdn.md)
     * [月结计费方式](/ucdn/charge/month)
+    * [高额账单风险警示](/ucdn/charge/HighBill)
     * [计费FAQ](/ucdn/charge/faq)
 * [FAQ](/ucdn/faq)
 * 政策与协议
