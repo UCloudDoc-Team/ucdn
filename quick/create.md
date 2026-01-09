@@ -31,7 +31,7 @@
 
 创建加速页面
 
-![image](https://user-images.githubusercontent.com/89777962/233307812-c2324818-ecdc-42e5-a3d1-6c059fa940f2.png)
+![image]([https://user-images.githubusercontent.com/89777962/233307812-c2324818-ecdc-42e5-a3d1-6c059fa940f2.png](https://www-s.ucloud.cn/2026/01/cfa6188d2b9a162500f8ffed93c1e705_1767950246078.png))
 
 
 
